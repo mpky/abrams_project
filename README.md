@@ -10,7 +10,9 @@ One of the more alarming such incidents occurred in Iraq in 2015 when Kata'ib He
 
 (https://www.longwarjournal.org/archives/2015/01/video-shows-hezbollah-brigades-convoy-transporting-american-m1-tank.php)
 
-A model that can accurately determine whether an image contains this very specific American tank can massively accelerate the process of these arms control experts. The plentiful amount of openly available footage and images from the Syrian Civil War and the Iraqi campaign to drive ISIS out of Mosul
+A model that can accurately determine whether an image contains this very specific American tank can massively accelerate the process of these arms control experts.
+
+For my training data, I downloaded and curated a dataset of images of ~1500 M1 Abrams tanks alongside ~400 images of similar military equipment as the other class.
 
 #### Notes
 
