@@ -12,6 +12,10 @@ One of the more alarming such incidents occurred in Iraq in 2015 when Kata'ib He
 
 A model that can accurately determine whether an image contains this very specific American tank can massively accelerate the process of these arms control experts. The plentiful amount of openly available footage and images from the Syrian Civil War and the Iraqi campaign to drive ISIS out of Mosul
 
+#### Notes
+
+Used Google Colab to fit the image classifier. While far faster to train than on my local machine, the file I/O with Drive gets wonky and the runtime drops after ~15 minutes of inactivity.
+
 #### Next Steps
 
 1. Use YOLO object detection to be able to immediately detect and track Abrams tanks.
