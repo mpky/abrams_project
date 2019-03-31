@@ -1,6 +1,6 @@
-## Abrams Tank classifier
+## M1 Abrams Tank classifier
 
-Training a CNN model to determine whether a given image contains an M1 Abrams tank or not.
+#### Project Goal: Training a CNN model to determine whether a given image contains an M1 Abrams tank or not.
 
 The massive amount of images and footage uploaded to social media today from conflict zones has provided opportunities for creative and new types of research and analysis. Experts such as those at Bellingcat and Armament Research Services have proven the power of this new type of open-source information in their analysis on everything from chemical weapons attacks to the capabilities of various armed opposition groups in Syria.
 
@@ -20,5 +20,7 @@ Used Google Colab to fit the image classifier. While far faster to train than on
 
 #### Next Steps
 
-1. Use YOLO object detection to be able to immediately detect and track Abrams tanks.
-2. Determine what other systems or equipment are of similar "high-risk" and train models to detect them.
+1. Further adjust layers in the CNN to see if I can further reduce Type I error.
+2. Use YOLO object detection or Fast R-CNN to immediately detect and track each M1 Abrams tanks in a given image.
+3. Determine what other systems or equipment are of similar "high-risk" and train models to detect them.
+4. Use Django or Flask to build a GUI so that one can easily input their own images.
