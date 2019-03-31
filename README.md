@@ -16,7 +16,11 @@ For my training data, I downloaded and curated a dataset of images of ~1500 M1 A
 
 #### Notes
 
-Used Google Colab to fit the image classifier. While far faster to train than on my local machine, the file I/O with Drive gets wonky and the runtime drops after ~15 minutes of inactivity.
+I used Google Colab to fit the image classifier. While far faster to train than on my local machine, the file I/O with Drive gets wonky and the runtime drops after ~15 minutes of inactivity.
+
+#### Conclusions on v1
+
+I am quite pleased at the first pass at this. My model was successfully able to detect the presence of an M1 Abrams tank in each of the four test images I passed it from various Iraqi militia social media accounts. More broadly, the model performs well on the testing data.
 
 #### Next Steps
 
