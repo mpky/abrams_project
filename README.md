@@ -26,7 +26,7 @@ I am quite pleased at the first pass at this. My model was successfully able to 
 
 #### Next Steps
 
-1. Further adjust layers in the CNN to see if I can further reduce Type I error.
-2. Use YOLO object detection or Fast R-CNN to immediately detect and track each M1 Abrams tanks in a given image.
-3. Determine what other systems or equipment are of similar "high-risk" and train models to detect them.
+1. Further adjust layers in the CNN to see if I can further reduce false negatives.
+2. Use YOLO object detection or Fast R-CNN to immediately detect and track each M1 Abrams tank in a given image.
+3. Determine what other systems or equipment are of similar "high risk" and train models to detect them.
 4. Use Django or Flask to build a GUI so that one can easily input their own images.
