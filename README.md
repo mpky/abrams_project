@@ -28,6 +28,10 @@ I am quite pleased at the first pass at this. My model was successfully able to 
 
 <img width="1077" alt="Screen Shot 2019-04-21 at 9 35 50 PM" src="https://user-images.githubusercontent.com/31871105/56478449-7c438480-647d-11e9-9725-7c7c37cc3d6d.png">
 
+###### TensorBoard Graph showing validation accuracy
+
+<img width="1071" alt="Screen Shot 2019-04-21 at 9 37 47 PM" src="https://user-images.githubusercontent.com/31871105/56478501-e1977580-647d-11e9-80fb-ac96bd8cebc6.png">
+
 
 #### Next Steps
 
