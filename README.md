@@ -24,11 +24,11 @@ I used Google Colab to fit the image classifier. While far faster to train than 
 
 I am quite pleased at the first pass at this. My model was successfully able to detect the presence of an M1 Abrams tank in each of the four test images I passed it from various Iraqi militia social media accounts. More broadly, the model performs well on the testing data.
 
-###### TensorBoard Graph showing validation data loss
+###### TensorBoard Graph showing loss on validation data over 100 epochs
 
 <img width="1077" alt="Screen Shot 2019-04-21 at 9 35 50 PM" src="https://user-images.githubusercontent.com/31871105/56478449-7c438480-647d-11e9-9725-7c7c37cc3d6d.png">
 
-###### TensorBoard Graph showing validation accuracy
+###### TensorBoard Graph showing accuracy on validation data over 100 epochs
 
 <img width="1071" alt="Screen Shot 2019-04-21 at 9 37 47 PM" src="https://user-images.githubusercontent.com/31871105/56478501-e1977580-647d-11e9-80fb-ac96bd8cebc6.png">
 
